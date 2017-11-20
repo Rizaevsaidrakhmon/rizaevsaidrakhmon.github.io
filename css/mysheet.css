@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: lightgrey;
+}
+
+h2 {
+font-family: verdana;
+    font-size: 27px;
+    text-align: center;
+	color: blue ;
+	text-align: center;
+}
+
+p {
+    font-family: new times roman;
+    font-size: 22px;
+	color: rebeccapurple;
+	text-align: left;
+}
+
+blockquote {
+	
+	font-family: new times roman;
+    font-size: 22px;
+	color: purple;
+	text-align: left;
+}
+	
+pre {
+	ont-family: new times roman;
+	 font-size: 22px;
+	
+		color: orange;
+}
