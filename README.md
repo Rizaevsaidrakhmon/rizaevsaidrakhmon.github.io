@@ -1,1 +1,0 @@
-# rizayevsaidrahmon.github.io
